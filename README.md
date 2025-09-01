@@ -1,4 +1,4 @@
-# Tuberculosis_Detection
+# Tuberculosis Detection
 
 ## Dataset Link: https://www.kaggle.com/datasets/tawsifurrahman/tuberculosis-tb-chest-xray-dataset/
 
